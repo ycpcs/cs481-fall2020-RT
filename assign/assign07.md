@@ -62,18 +62,18 @@ Make sure that your presentation is ready to go immediately when it is your team
 
 Your assignment grade will be determined as follows:
 
--   Draft Report (5% of overall course grade)
+-   Draft Report **(5% of overall course grade):**
     -   Organization/Flow: **25%**
     -   Writing quality: **25%**
     -   Clarity/completeness of technical content: **50%**
 
--   Presentation (10% of overall course grade)
+-   Presentation **(10% of overall course grade):**
     -   Organization/Flow: **50%**
     -   Clarity/completeness of technical content: **50%**
 
--   Project Assessment: **10% of overall course grade)**
+-   Project Assessment **(10% of overall course grade)**
 
--   Final Report: **5% of overall course grade**
+-   Final Report **(5% of overall course grade)**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

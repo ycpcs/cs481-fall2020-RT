@@ -20,9 +20,9 @@ There are three tasks which are part of this assignment.
 
 ## Proposal
 
-The first task is to distribute the students among the four teams designated in the syllabus.  You should have received invitations to collaborate on the previous team's Google Team Drives.  We will likely create a new Shared Team Drive (but I'm not certain of that, yet)  Also, you should have placed your preferences and contact information in **CS481 - Senior Design(2019) YCAS Radio Telescope Team Preferences Google Team Drive** on the team drive.  If you have no particular preference, you can state that.  I will try to honor your first request, and almost certainly your second request - we will decide this on the first day of class.  In addition, I will try to honor the requests for those of you who expressed interest in leading a team, as well as the overall project.  Again, we will determine this on the first day of class.
+The first task is to distribute the students among the five teams designated in the syllabus.  You should have received invitations to collaborate on the previous team's Google Team Drives.  We will create a new Shared Team Drive (but I'm not certain of that, yet)  Also, you should have placed your preferences and contact information in **CS481 - Senior Design(2020) YCAS Radio Telescope Team Preferences Google Team Drive** on the team drive.  If you have no particular preference, you can state that.  I will try to honor your first request, and almost certainly your second request - we will decide this on the first day of class.  In addition, I will try to honor the requests for those of you who expressed interest in leading a team, as well as the overall project.  Again, we will determine this on the first day of class.
 
-Your team should then write a 1 to 2 page report describing your chosen/assigned project.  In most cases, this work will be an extension of work that was performed by the previous SW Engineering team (2018-2019), and/or from the Engineering Capstone Radio Telescope team this past Summer.  You will be granted access to the **YCAS: Radio Telescope Project (2019-2020)**.  In order to properly define your team's work, you will need to research the existing work, and discuss what needs to be refactored, modified, or added with your clients, as well as with the previous team leadership.
+Your team should then write a 1 to 2 page report describing your chosen/assigned project.  In most cases, this work will be an extension of work that was performed by the previous SW Engineering team (2019-2020), and/or from the Engineering Capstone Radio Telescope team this past Summer.  You will be granted access to the **YCAS: Radio Telescope Project (2019-2020)** Google Drive.  In order to properly define your team's work, you will need to research the existing work, and discuss what needs to be refactored, modified, or added with your clients, as well as with the previous team leadership.
 
   Your team report should include the following information:
 
@@ -67,11 +67,11 @@ You will likely be cloning the existing GitHub repositories.
 
 Your third task is for each team member to set up a computing environment with the hardware and software you will need for the project.
 
-You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.
+You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.  The back of the KEC118 is reserved for the Radio Telescope project.  I'mnot sure how this is going to work for this academic year, due to Covid-19.
 
 Please note that you are **NOT** required to use one of the provided PCs: you can use your own laptop if you would prefer.
 
-The procedures for setting up the developmetn environments can be found on the previous team's Google Team Drive, which has alredy been shared with you.
+The procedures for setting up the development environments can be found on the previous team's Google Team Drive, which has alredy been shared with you.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -92,7 +92,7 @@ The procedures for setting up the developmetn environments can be found on the p
   - Members, instructors, clients, and mentors added as contributors: **5%**
   - Categories created in issue tracker: **10%**
 
-* Physical space setup: **15%**
+* Project Development Environment and Tools Setup (this may include physical space set-up in KEC118): **15%**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -100,4 +100,4 @@ The procedures for setting up the developmetn environments can be found on the p
 
 # Submitting
 
-To submit, share your Google doc with the instructors.
+To submit, post you shared Google doc to the team drive under your team's folder.

@@ -1,14 +1,14 @@
 ---
 layout: default
-course_number: CS481-102
-title: Final System, Report, and Presentation
+course_number: CS481-102-RT
+title: Final Working System, Presentation, Poster, and Report
 ---
 
-**Draft Report Due:** Wednesday, Dec 11th by 7:00am
+**Draft Report Due:** Wednesday, Nov 25th by Noon
 
-**Presentations:** Friday, Dec 13th from 5:00pm-7:00pm in KEC 120 or KEC125 (if available, **subject to change**)
+**Presentations:** Wednesday, Dec 3rd from 5:00pm-7:00pm via Zoom
 
-**Final Report Due:** Monday, Dec 16th by 7:00am
+**Final Report Due:** Friday, Dec 6th by Noon
 
 This is a **Team** assignment.
 
@@ -24,7 +24,7 @@ We **strongly encourage** you to make an appointment and visit the [Writing Cent
 
 ### Presentation Guidelines
 
-**NOTE: The following is subject to change, as the four teams in this section are working on separate components of the same system.  It may be necessary to combine certain team presentations in order to provide a cohesive overall system-level presentation.  We will discuss this in more detail as the system development evolves throughout the course of the semester.**
+**NOTE: The following is subject to change, as the five teams in this section are working on separate components of the same system.  It may be necessary to combine certain team presentations in order to provide a cohesive overall system-level presentation.  We will discuss this in more detail as the system development evolves throughout the course of the semester.**
 
 Your team will give a presentation of about 20 minutes, leaving 5 minutes for a question and answer session.
 
@@ -62,17 +62,18 @@ Make sure that your presentation is ready to go immediately when it is your team
 
 Your assignment grade will be determined as follows:
 
--   Draft Report
-    -   Organization/Flow: **10%**
-    -   Writing quality: **10%**
-    -   Clarity/completeness of technical content: **30%**
+-   Draft Report (5% of overall course grade)
+    -   Organization/Flow: **25%**
+    -   Writing quality: **25%**
+    -   Clarity/completeness of technical content: **50%**
 
--   Presentation
-    -   Organization/Flow: **10%**
-    -   Clarity/completeness of technical content: **10%**
+-   Presentation (10% of overall course grade)
+    -   Organization/Flow: **50%**
+    -   Clarity/completeness of technical content: **50%**
 
--   Project Assessment: **20%**
--   Final Report: **10%**
+-   Project Assessment: **10% of overall course grade)**
+
+-   Final Report: **5% of overall course grade**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -83,4 +84,4 @@ Your assignment grade will be determined as follows:
 Submit the draft report as a **shared Google Doc** with your instructors.
 We will make comments directly in your shared document.
 
-Submit the final report **in PDF format** via email to your instructors.
+Submit the final report **in PDF format** via email to your instructors (as well as post in the shared Google Drive).

@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102
+course_number: CS481-102-RT
 title: Requirements
 ---
 
@@ -37,13 +37,11 @@ Your team can create use cases or user stories: it's up to you.
 
 If you're a little rusty on how to identify and document requirements, please review [Lecture 8](https://ycpcs.github.io/cs320-spring2019/lectures/lecture08.html) from CS320.  "UML Distilled" from CS320 discusses use cases and user stories.
 
-<!--
 Consider creating initial issues that correspond to the features of the system, i.e. the tasks necessary for implementing each system requirement. Each requirements may consist of multiple issues. Be sure to add a description to each issue explaining the functionality and requirement the issue will address.
 
 Each milestone should then be assigned appropriate issues describing the features the milestone will implement. Begin with general features, but as a feature is undertaken new detailed issues should be added to the issue tracker documenting the evolution of the system design architecture.
 
 Be sure that as progress on the project proceeds, issues are labeled appropriately and at least weekly comments are added describing work that was accomplished.
--->
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

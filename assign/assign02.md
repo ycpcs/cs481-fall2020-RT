@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102
+course_number: CS481-102-RT
 title: Weekly Journals, Progress Reports, and Demos
 ---
 
@@ -24,7 +24,12 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should be complete by Wednesday at 7:00a (so that we can use Wednesday to read your entries.)
+Your journal entries should summarize your work for the week.  They are due every Wednesday by 4:00pm, and should address the following points:
+* What your TEAM accomplished in the past week
+* What YOU accomplished in the past week
+* What challenges you faced that impeded your progress, and how you dealt with them
+* What you intend to accomplish for the next week
+* Make sure to include links to your major commits for the week
 
 
 ## Demo (individual)

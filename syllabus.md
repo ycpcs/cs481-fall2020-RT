@@ -68,7 +68,7 @@ Your team's grade will be determined as a weighted average of the grades on the 
 -   Assignment 4 - Analysis and Design - **15%**
 -   Assignment 5 - Minimal Working System - **10%**
 -   Assignment 6 - 50% Working System - **10%**
--   Assignment 7 - Final Working System (10%), Presentation (5%), Poster (5%), Report (10%) - **30%**
+-   Assignment 7 - Final Working System (10%), Presentation (10%), Report (10%) - **30%**
 
 NOTE: You will be presenting your work for each of these assignments in class on the Wednesday they are due.  On the days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are due by 4:00p, prior to EVERY class period, regardless of what is due that day.
 

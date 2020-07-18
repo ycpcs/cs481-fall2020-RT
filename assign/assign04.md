@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102
+course_number: CS481-102-RT
 title: Analysis and Design
 ---
 
@@ -45,4 +45,4 @@ Your work will be graded as follows:
 
 # Submitting
 
-Post you model to your team's Google Drive and email your model to your instructors.
+Post you model to your team's folder on the project's Google Drive and email your model to your instructors.

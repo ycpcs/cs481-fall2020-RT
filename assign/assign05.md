@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102
+course_number: CS481-102-RT
 title: Minimal Working System
 ---
 
@@ -30,7 +30,7 @@ Because this milestone involves implementing several of your most important use 
 
 # The Demonstration
 
-Your team should plan to present for 12 minutes. Your presentation should include the following elements:
+Your team should plan to present for 12-15 minutes. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.

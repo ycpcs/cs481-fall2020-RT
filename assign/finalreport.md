@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481-102
+course_number: CS481-102-RT
 title: Final Report Details
 ---
 

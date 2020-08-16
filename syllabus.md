@@ -16,9 +16,13 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 102-RT:**  Weds 4:00p-5:15p NOTE: It is likely that class could run well past 5:15 at times, especially during the bi-weekly status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For milestone presentations, you might need to make accommodations with your professor.<br>
+ - **Section 102-RT:**  I will be teaching 100% remotely this semester, and will not be on campus.  As such, all meetings, status updates, and assignment and Milestone presentations that I attend will be conducted via Zoom.
  
-**Location:** KEC 118 (although all class meetings will be conducted remotely via Zoom the entire semester<br> 
+ Mondays (4:00p-5:15p): This class session is resereved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time.  They will likely join you via Zoom, so I suggest holding these meetings via Zoom (even if you are in the project workspace together at that time) so that they can join you.
+ 
+ Wednesdays 4:00p-5:15p This class session is reserved for status updates, assignment presentations, and Milestone presentations.  I will be scheduling and conducting these sessions via Zoom.  NOTE: It is not unusual for the class to run well past 5:15 at times, especially during the bi-weekly status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your professor.<br>
+ 
+**Location:** KEC 118 (although I will conduct all status meetings and presentations remotely via Zoom for the Fall 2020 semester<br> 
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2020-RT/](https://ycpcs.github.io/cs481-fall2020-RT/)
 
 **Instructor**
@@ -27,9 +31,7 @@ title: Syllabus
 **Email:** <djhake2@ycp.edu><br>
 **Office:** KEC 137 (although all of my office hours will be remote via Zoom<br>
 **Phone:** (717) 815-6587 (this is definitely NOT a reliable way to reach me<br>
-**Office Hours (all office hours will be conducted via Zoom):** <br>&nbsp;&nbsp;&nbsp;&nbsp;
-Wed,Fri via Zoom: 11:15am-12:00pm, 1:15pm-2:00pm<br>&nbsp;&nbsp;&nbsp;&nbsp;
-Wed via Zoom: 2:00pm-4:00pm, and by appointment
+**Office Hours:** I will conduct all office hours by appointment via Zoom
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -37,7 +39,9 @@ Wed via Zoom: 2:00pm-4:00pm, and by appointment
 
 This is the third year of a multi-year effort to design and develop the various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2020-2021 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructors and other Engineering and COmputer Science faculty members, YCAS clients, recent York College Engineering and Computer Science graduates, and local industry partners.
 
-There will be 4-5 teams of 2-4 people each, working in a coordinated fashion to continue developing the entire Radio Telescope software suite.  The teams will be working on:<br>
+There are currently 5 sub-projects (listed below).  Some of those sub-projects require significant additional work, others do not.  Our clients - the York County Astronomical Society (YCAS) will determine the substance of the tasks to be accompished, as this is expected to be the final year of major SW development for the project.
+
+We will organize as teams of 2-3 people, working in a coordinated fashion to continue developing the entire Radio Telescope software suite.  The teams will be working on:<br>
 	* **Team Venus:**   Front-End User Interface Website (Vue.js, Vuetify, etc.)<br>
 	* **Team Mercury:** Back-End Server and Database (Kotlin, Spring, AWS, etc.)<br>
 	* **Team Jupiter:** Control Room Application, including HW simulation and Testing Tools (C#, .NET)<br>
@@ -90,7 +94,7 @@ Grades will be assigned on a 100-point scale according to the following table:
 
 ### Attendance Policy
 
-**Attendance at every weekly meeting is mandatory**.
+**Attendance at every team meeting (Mondays) and every status/presentation meeting (Wednesdays) is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

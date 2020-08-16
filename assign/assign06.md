@@ -23,7 +23,7 @@ Your task is to demonstrate a 50% working version of your system.
 # The Demonstration
 
 
-Your team should plan to present for 12-15 minutes. Your presentation should include the following elements:
+Each sub-team should plan to present for 12-15 minutes. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.

@@ -7,9 +7,9 @@ title: Weekly Journals, Progress Reports, and Demos
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
-# Expectations for Weekly Journals, Progress Reports, and Demos
+# Expectations for Weekly Journals, Status Reports, and Demos
 
-On the weeks that you do not have an assignment to present, you will give progress reports.  Here are what we would like to see from you for those weekly (Wednesday) meetings.  
+On the weeks that you do not have an assignment to present, you will give status reports.  Here are what we would like to see from you for those weekly (Wednesday) meetings.  
 
 
 ## Journal entries (individual)
@@ -24,7 +24,7 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should summarize your work for the week.  They are due every Wednesday by 4:00pm, and should address the following points:
+You will also each maintain a Weekly Journal as a shared Google doc on your teams drive.  Your journal entries should summarize your work for the week.  I will be grading these entries.  They are due every Wednesday by 4:00pm, and should address the following points:
 * What your TEAM accomplished in the past week
 * What YOU accomplished in the past week
 * What challenges you faced that impeded your progress, and how you dealt with them
@@ -34,7 +34,7 @@ Your journal entries should summarize your work for the week.  They are due ever
 
 ## Demo (individual)
 
-During the weekly staus reports, each team and each student from that team will present their progress *individually*.  Your job is to very briefly (1-2 minutes) present/demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of your team's portion of the project.  You should present two or three of your most important contributions (as documented in your journal entry for the previous week).
+During the weekly staus reports, each team and each student from that team will present their progress *individually*.  Your job is to very briefly (2-4 minutes) present/demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of your team's portion of the project.  You should present two or three of your most important contributions (as documented in your journal entry for the previous week).
 
 Ways that you can demonstrate progress include
 

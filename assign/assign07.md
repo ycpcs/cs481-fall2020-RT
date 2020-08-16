@@ -8,7 +8,7 @@ title: Final Working System, Presentation, Poster, and Report
 
 **Presentations:** Wednesday, Dec 3rd from 5:00pm-7:00pm via Zoom
 
-**Final Report Due:** Friday, Dec 6th by Noon
+**Final Report Due:** Saturday, Dec 6th by Noon
 
 This is a **Team** assignment.
 
@@ -26,7 +26,7 @@ We **strongly encourage** you to make an appointment and visit the [Writing Cent
 
 **NOTE: The following is subject to change, as the five teams in this section are working on separate components of the same system.  It may be necessary to combine certain team presentations in order to provide a cohesive overall system-level presentation.  We will discuss this in more detail as the system development evolves throughout the course of the semester.**
 
-Your team will give a presentation of about 20 minutes, leaving 5 minutes for a question and answer session.
+Each sub-team will give a presentation of about 20 minutes, leaving 5 minutes for a question and answer session.
 
 You should use some presentation software such as Keynote, PowerPoint, or a Google presentation. Your slides should contain brief bulleted points. They should not be a "wall of text". Use animations sparingly. DO NOT USE SOUND EFFECTS!!!
 

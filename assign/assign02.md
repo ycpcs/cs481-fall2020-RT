@@ -4,7 +4,7 @@ course_number: CS481-102-RT
 title: Weekly Journals, Progress Reports, and Demos
 ---
 
-**Due: [See Assignment Schedule](schedule.html)**
+**Due: [See Assignment Schedule](../schedule.html)**
 
 These are a mix of **Team** and **Individual** assignments.
 

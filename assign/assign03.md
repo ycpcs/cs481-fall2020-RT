@@ -4,7 +4,7 @@ course_number: CS481-102-RT
 title: Requirements
 ---
 
-**Due: [See Assignment Schedule](schedule.html)**
+**Due: [See Assignment Schedule](../schedule.html)**
 
 This is a **Team** assignment.
 

@@ -4,12 +4,13 @@ course_number: CS481-102-RT
 title: Analysis and Design
 ---
 
+**Due: [See Assignment Schedule](index.html)**
+
+This is a **Team** assignment.
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-
-
 # Your Task
-
 
 Your task is to create initial analysis and design models which identify the important classes in your system, and their relationships. If your project includes a database, include the database schema showing the tables and fields of the database.  Use **textual analysis** from your Use Cases to identify the classes and attributes (nouns) and the methods and interfaces (verbs) for your UML diagram.
 

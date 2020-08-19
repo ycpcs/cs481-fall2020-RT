@@ -4,17 +4,11 @@ course_number: CS481-102-RT
 title: Final Working System, Presentation, Poster, and Report
 ---
 
-**Draft Report Due:** Wednesday, Nov 25th by Noon
-
-**Presentations:** Wednesday, Dec 3rd from 5:00pm-7:00pm via Zoom
-
-**Final Report Due:** Saturday, Dec 6th by Noon
+**Due: [See Assignment Schedule](index.html)**
 
 This is a **Team** assignment.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-
-
 
 # Your Task
 
@@ -28,7 +22,7 @@ We **strongly encourage** you to make an appointment and visit the [Writing Cent
 
 Each sub-team will give a presentation of about 20 minutes, leaving 5 minutes for a question and answer session.
 
-You should use some presentation software such as Keynote, PowerPoint, or a Google presentation. Your slides should contain brief bulleted points. They should not be a "wall of text". Use animations sparingly. DO NOT USE SOUND EFFECTS!!!
+You should use some presentation software such as Keynote, PowerPoint, or a Google presentation. Your slides should contain brief bulleted points and graphics that provide overall context for your bullet potins. Slides should not be a "wall of text", an dplease avoid reading your slides or a prepared script. Use animations sparingly. DO NOT USE SOUND EFFECTS!!!
 
 **Please rehearse your presentation!** We can't allow any presentation to go over its allotted time. You may wish to have a few notecards for reference. However, you should not read directly from your notecards or from your slides. This makes for a very boring and painful presentation.
 

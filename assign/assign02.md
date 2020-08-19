@@ -4,6 +4,10 @@ course_number: CS481-102-RT
 title: Weekly Journals, Progress Reports, and Demos
 ---
 
+**Due: [See Assignment Schedule](index.html)**
+
+These are a mix of **Team** and **Individual** assignments.
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
@@ -24,7 +28,7 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-You will also each maintain a Weekly Journal as a shared Google doc on your teams drive.  Your journal entries should summarize your work for the week.  I will be grading these entries.  They are due every Wednesday by 4:00pm, and should address the following points:
+You will also each maintain a Weekly Journal as a shared Google doc on your team's drive.  Your journal entries should summarize your work for the week.  I will be grading these entries.  They are due every Wednesday before class by 4:00pm, and **MUST** address the following points:
 * What your TEAM accomplished in the past week
 * What YOU accomplished in the past week
 * What challenges you faced that impeded your progress, and how you dealt with them
@@ -32,7 +36,7 @@ You will also each maintain a Weekly Journal as a shared Google doc on your team
 * Make sure to include links to your major commits for the week
 
 
-## Demo (individual)
+## Demo (team and individual)
 
 During the weekly staus reports, each team and each student from that team will present their progress *individually*.  Your job is to very briefly (2-4 minutes) present/demonstrate what you worked on during the previous week, and how your efforts are contributing to the overall success of your team's portion of the project.  You should present two or three of your most important contributions (as documented in your journal entry for the previous week).
 
@@ -45,7 +49,7 @@ Ways that you can demonstrate progress include
 
 # Team meeting
 
-In addition to the individual meetings, we will generally meet with each team as a whole to discuss overall progress.
+In addition to the individual meetings, each sub-team will present their overall accomplishments and progress.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

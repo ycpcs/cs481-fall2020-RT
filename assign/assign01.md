@@ -4,6 +4,8 @@ course_number: CS481-102
 title: Project Proposal
 ---
 
+**Due: [See Assignment Schedule](index.html)**
+
 This is a **Team** assignment. **Create a document in Google Docs so that team members can work collaboratively.**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---

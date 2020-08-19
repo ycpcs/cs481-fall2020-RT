@@ -4,6 +4,7 @@ course_number: CS481-102-RT
 title: 50% Working System
 ---
 
+**Due: [See Assignment Schedule](index.html)**
 
 This is a **Team** assignment.
 

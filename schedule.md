@@ -14,4 +14,4 @@ This is the course schedule for CS 481-102-RT (YCAS Radio Telescope Project).
 [Assignment 4: Analysis and Design](assign/assign04.html)                  | Wed, Sep 23rd by 4:00pm (prior to class): Presentation during class via Zoom
 [Assignment 5: Minimal Working System](assign/assign05.html)               | Wed, Oct 21st: Presentation and Demo during class via Zoom
 [Assignment 6: 50% Working System](assign/assign06.html)                   | Wed, Nov 11th: Presentation and Demo during class via Zoom
-[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Wed, Dec 3rd, 5:00pm to 7:00pm: Presentation and Demo during final exam period via Zoom<br>Wed, Nov 25th by Noon: Draft Report due<br>Sat, Dec 6th by Noon: Final Report due
+[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Fri, Dec 4th, 5:00pm to 7:00pm: Presentation and Demo during final exam period via Zoom<br>Sat, Nov 28th by Noon: Draft Report due<br>Sun, Dec 6th by Noon: Final Report due

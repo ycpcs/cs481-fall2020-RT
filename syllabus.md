@@ -6,7 +6,7 @@ title: Syllabus
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS 481-102: Senior Software Project I (YCAS Radio Telescope Project)
+## CS 481-102: Senior Software Design I (YCAS Radio Telescope Project)
 
 ## Fall 2020
 

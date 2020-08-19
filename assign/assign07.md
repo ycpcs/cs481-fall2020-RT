@@ -4,7 +4,7 @@ course_number: CS481-102-RT
 title: Final Working System, Presentation, Poster, and Report
 ---
 
-**Due: [See Assignment Schedule](index.html)**
+**Due: [See Assignment Schedule](schedule.html)**
 
 This is a **Team** assignment.
 

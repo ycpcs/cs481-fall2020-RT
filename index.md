@@ -20,22 +20,23 @@ This is the website for CS 481-102-RT (Senior Software Design I), Fall 2020 for 
 * [Schedule](schedule.html)
 
 ## Project Ideas for This Year (Fall 202 and Spring 2021)
+The following is a list of various ideas for the project for this coming Fall 2020 and Spring 2021.  Todd Ullery of the YCAS provided his list of must-haves and like-to-haves, and I added a few ideas for you to investigate, as well.  You are not limited by this list - please also feel free to offer your own ideas for improving, enhancing, and/or expanding the capabilities of the Radio Telescope, while also allowing yourself to explore your own personal interests.
 
-#YCAS MUST HAVES:
+# YCAS Must-Haves
 
-* The AWS cost is far to high. We need to review the expenses and determine what is to change, needs to be in the $20 to $50 range instead of $250.
+* The current monthly AWS cost is far to high (~$250/month).  We need to review the services and expenses and determine what must be changed.  The monthly cost needs to be reduced to the $20 to $50 range, from the current $250/month charges.
 
-* A review of each of the project's use of technology to consolidate where possible the platforms used to create the product. I agree some cannot be changed, but lets review them anyway. This is a maintenance issue.
+* A review of each of the project's use of technology in order to consolidate, where possible, the multiple platforms used to create the product. I agree some cannot be changed, but let's review them anyway. This is a long-term software maintenance issue.
 
-* While collecting data, a service watches the data being collected, watching for Radio Frequency Interference and capturing lightning or flight (flightaware.com) information to be used to help explain why the signal occurred. What other sources of RFI can be researched?
+* While collecting data, add a service that watches the data being collected, looking for possible instances of Radio Frequency Interference (RFI) and capturing lightning or flight (flightaware.com) information to be used to help explain why anomolies in a particular signal occurred. What other sources of RFI can be researched?
 
 * Integrate existing Open Source software for displaying radio telescope data.
 
 * Verify the control room WiFi can relay the Admin Phone App commands directly to the controller - bypassing the AWS path.
 
-* Add an outdoor audio speaker to the control room allowing live or canned messages to be played via the Admin Phone App video screen. Kerry can see someone climbing over the fence and he can give an audio warning by pressing a button. Another button (existing) can stow the telescope.
+* Add an outdoor audio speaker to the control room allowing live or canned messages to be played automatically or via the Admin Phone App video screen. If Kerry sees someone climbing over the fence, he could give an audio warning by pressing a button. Another button (existing) can stow the telescope.
 
-# YCAS LIKE-TO-HAVES:
+# YCAS Like-to-Have:
 
 * Todd Ullery wants to hear what the software developers think would be useful for the project.
 
@@ -44,7 +45,7 @@ This is the website for CS 481-102-RT (Senior Software Design I), Fall 2020 for 
 * Improve the log reports in the control room and AWS to make it easier to verify the health of the system.
 
 
-# PROFESSOR HAKE'S IDEAS:
+# Professor Hake's Ideas
 
 * I think we could concentrate on bringing the website "in-house" to the Control Room, with limited access to start for members only, to limit web traffic through the park's network - although all that data is going through there, anyway.
 

@@ -8,10 +8,10 @@ This is the course schedule for CS 481-102-RT (YCAS Radio Telescope Project).
 
 **Assignment** | **Due**
 :--------------|:---------
-[Assignment 1: Project Proposal and Readiness Demo](assign/assign01.html)  | Wed, Sep 2nd by 4:00pm (prior to class): Proposal Presentation during class via Zoom<br>Wed, Sep 9th: Readiness demo during class via Zoom
-[Assignment 2: Status Reports](assign/assign02.html)                       | Weds, 10-7,10-14,10-28,11-4,11-18: Status Reports during class via Zoom<br>Every Weds by 4:00pm (prior to class): Weekly journal updates
-[Assignment 3: Requirements](assign/assign03.html)                         | Wed, Sep 16th by 4:00pm (prior to class): Presentation during class via Zoom
-[Assignment 4: Analysis and Design](assign/assign04.html)                  | Wed, Sep 23rd by 4:00pm (prior to class): Presentation during class via Zoom
-[Assignment 5: Minimal Working System](assign/assign05.html)               | Wed, Oct 21st: Presentation and Demo during class via Zoom
-[Assignment 6: 50% Working System](assign/assign06.html)                   | Wed, Nov 11th: Presentation and Demo during class via Zoom
+[Assignment 1: Project Proposal and Readiness Demo](assign/assign01.html)  | Mon, Sep 7th by 4:00pm (prior to class): Proposal Presentation during class via Zoom<br>Mon, Sep 14th: Readiness demo during class via Zoom
+[Assignment 2: Status Reports](assign/assign02.html)                       | Mon, 10-5,10-12,10-26,11-2,11-16, 11-23: Status Reports during class via Zoom<br>Every Monday by 4:00pm (prior to class): Weekly journal updates
+[Assignment 3: Requirements](assign/assign03.html)                         | Mon, Sep 21st by 4:00pm (prior to class): Presentation during class via Zoom
+[Assignment 4: Analysis and Design](assign/assign04.html)                  | Mon, Sep 28th by 4:00pm (prior to class): Presentation during class via Zoom
+[Assignment 5: Minimal Working System](assign/assign05.html)               | Mon, Oct 19th: Presentation and Demo during class via Zoom
+[Assignment 6: 50% Working System](assign/assign06.html)                   | Mon, Nov 9th: Presentation and Demo during class via Zoom
 [Assignment 7: Final System Presentation and Report](assign/assign07.html) | Fri, Dec 4th, 5:00pm to 7:00pm (final exam period): Presentation and Demo via Zoom<br>Sat, Nov 28th by Noon: Draft Report due<br>Sun, Dec 6th by Noon: Final Report due

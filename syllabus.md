@@ -18,10 +18,10 @@ title: Syllabus
 
  - **I will be teaching 100% remotely this semester, and will not be on campus.  As such, all meetings, status updates, and assignment and Milestone presentations that I attend will be conducted via Zoom.**
  
- - **Mondays (4:00p-5:15p):** This class session is resereved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time.  They will likely join you via Zoom, so I suggest holding these meetings via Zoom (even if you are in the project workspace together at that time) so that they can join you.
+ - **Mondays (4:00p-5:15p):** This class session is reserved for status updates, assignment presentations, and Milestone presentations.  I will be scheduling and conducting these sessions via Zoom.  NOTE: It is not unusual for the class to run well past 5:15 at times, especially during the bi-weekly status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your professor.<br>
  
- - **Wednesdays 4:00p-5:15p:** This class session is reserved for status updates, assignment presentations, and Milestone presentations.  I will be scheduling and conducting these sessions via Zoom.  NOTE: It is not unusual for the class to run well past 5:15 at times, especially during the bi-weekly status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your professor.<br>
- 
+ - **Wednesday (4:00p-5:15p):** This class session is resereved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time.  They will likely join you via Zoom, so I suggest holding these meetings via Zoom (even if you are in the project workspace together at that time) so that they can join you.
+  
 **Location:** KEC 118 (the back 2 benches are reserved for the Radio Telescope project - although I will conduct all status meetings and presentations remotely via Zoom for the Fall 2020 semester)
  
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2020-RT/](https://ycpcs.github.io/cs481-fall2020-RT/)
@@ -75,7 +75,7 @@ Your team's grade will be determined as a weighted average of the grades on the 
 -   Assignment 6 - 50% Working System - **10%**
 -   Assignment 7 - Final Working System (10%), Presentation (10%), Report (10%) - **30%**
 
-NOTE: You will be presenting your work for each of these assignments in class on the Wednesday they are due.  On the days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 4:00p, immediately prior to EVERY class period, regardless of what is due that day.**
+NOTE: You will be presenting your work for each of these assignments in class on the Monday they are due.  On the days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Monday by 4:00p, immediately prior to EVERY class period, regardless of what is due that day.**
 
 Grades will be assigned on a 100-point scale according to the following table:
 
@@ -95,7 +95,7 @@ Grades will be assigned on a 100-point scale according to the following table:
 
 ### Attendance Policy
 
-**Attendance at every team meeting (Mondays) and every status/presentation meeting (Wednesdays) is mandatory**.
+**Attendance at every status/presentation meeting (Mondays) and every team meeting (Wednesdays) is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

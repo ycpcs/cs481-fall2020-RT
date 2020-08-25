@@ -22,7 +22,7 @@ There are three tasks which are part of this assignment.
 
 ## Proposal
 
-The first task is to distribute the students among the five teams designated in the syllabus.  You should have received invitations to collaborate on the previous team's Google Team Drives.  We will work form the previous team's Shared Team Drive.  Also, you should have placed your preferences and contact information in **CS481 - Senior Design(2020) YCAS Radio Telescope Team Preferences Google Team Drive** on the team drive.  If you have no particular preference, you can state that.  I will try to honor your first request, and almost certainly your second request - we will decide this on the first day of class.  In addition, I will try to honor the requests for those of you who expressed interest in leading a team, as well as the overall project.  Again, we will determine this on the first day of class.
+The first task is to distribute the students among the five teams designated in the syllabus.  You should have received invitations to collaborate on the new team's Google Team Drive.  You have also been added to the previous team's Google Team Drive.  Also, you should have placed your preferences and contact information in **CS481 - Senior Design(2020) YCAS Radio Telescope Team Preferences** on the Google team drive.  If you have no particular preference, you can state that.  I will try to honor your first request, and almost certainly your second request - we will decide this on the first day of class.  In addition, I will try to honor the requests for those of you who expressed interest in leading a team, as well as the overall project.  Again, we will determine this on the first day of class.
 
 Your team should then write a 2-4 page report describing your chosen/assigned project.  In most cases, this work will be an extension of work that was performed by the previous SW Engineering team (2019-2020), and/or from the Engineering Capstone Radio Telescope team this past Summer.  You will be granted access to the **YCAS: Radio Telescope Project (2019-2020)** Google Drive.  In order to properly define your team's work, you will need to research the existing work, and discuss what needs to be refactored, modified, or added with your clients, as well as with the previous team leadership.
 
@@ -71,7 +71,7 @@ Your third task is for each team member to set up a computing environment with t
 
 You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.  The back of the KEC118 is reserved for the Radio Telescope project.  I'm not sure how this is going to work for this academic year, due to Covid-19.
 
-Please note that you are **NOT** required to use one of the provided PCs: you can use your own laptop if you would prefer.
+Please note that you are **NOT** required to use one of the provided PCs: you can use your own laptop if you would prefer.  In fact, with the possibility/probability of once again reverting to 100% remote at any time during the semester, I **highly** recommend that you work on your own laptops so that the transition to remote learning (if it comes) can be realtively seamless.
 
 The procedures for setting up the development environments can be found on the previous team's Google Team Drive, which has alredy been shared with you.
 

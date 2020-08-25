@@ -22,7 +22,7 @@ This is the website for CS 481-102-RT (Senior Software Design I), Fall 2020 for 
 ## Project Ideas for This Year (Fall 202 and Spring 2021)
 The following is a list of various ideas for the project for this coming Fall 2020 and Spring 2021.  Todd Ullery of the YCAS provided his list of must-haves and like-to-haves, and I added a few ideas for you to investigate, as well.  You are not limited by this list - please also feel free to offer your own ideas for improving, enhancing, and/or expanding the capabilities of the Radio Telescope, while also allowing yourself to explore your own personal interests.
 
-# YCAS Must-Haves
+- YCAS Must-Haves
 
 * The current monthly AWS cost is far to high (~$250/month).  We need to review the services and expenses and determine what must be changed.  The monthly cost needs to be reduced to the $20 to $50 range, from the current $250/month charges.
 
@@ -36,7 +36,7 @@ The following is a list of various ideas for the project for this coming Fall 20
 
 * Add an outdoor audio speaker to the control room allowing live or canned messages to be played automatically or via the Admin Phone App video screen. If Kerry sees someone climbing over the fence, he could give an audio warning by pressing a button. Another button (existing) can stow the telescope.
 
-# YCAS Like-to-Have:
+- YCAS Like-to-Have:
 
 * Todd Ullery wants to hear what the software developers think would be useful for the project.
 
@@ -45,7 +45,7 @@ The following is a list of various ideas for the project for this coming Fall 20
 * Improve the log reports in the control room and AWS to make it easier to verify the health of the system.
 
 
-# Professor Hake's Ideas
+- Professor Hake's Ideas
 
 * I think we could concentrate on bringing the website "in-house" to the Control Room, with limited access to start for members only, to limit web traffic through the park's network - although all that data is going through there, anyway.
 

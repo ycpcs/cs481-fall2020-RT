@@ -18,3 +18,38 @@ This is the website for CS 481-102-RT (Senior Software Design I), Fall 2020 for 
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
+
+## Project Ideas for This Year (Fall 202 and Spring 2021)
+
+#YCAS MUST HAVES:
+
+* The AWS cost is far to high. We need to review the expenses and determine what is to change, needs to be in the $20 to $50 range instead of $250.
+
+* A review of each of the project's use of technology to consolidate where possible the platforms used to create the product. I agree some cannot be changed, but lets review them anyway. This is a maintenance issue.
+
+* While collecting data, a service watches the data being collected, watching for Radio Frequency Interference and capturing lightning or flight (flightaware.com) information to be used to help explain why the signal occurred. What other sources of RFI can be researched?
+
+* Integrate existing Open Source software for displaying radio telescope data.
+
+* Verify the control room WiFi can relay the Admin Phone App commands directly to the controller - bypassing the AWS path.
+
+* Add an outdoor audio speaker to the control room allowing live or canned messages to be played via the Admin Phone App video screen. Kerry can see someone climbing over the fence and he can give an audio warning by pressing a button. Another button (existing) can stow the telescope.
+
+# YCAS LIKE-TO-HAVES:
+
+* Todd Ullery wants to hear what the software developers think would be useful for the project.
+
+* The VR/AR team should continue to update the Rudy Park model to allow the night sky and data points to be displayed.
+
+* Improve the log reports in the control room and AWS to make it easier to verify the health of the system.
+
+
+# PROFESSOR HAKE'S IDEAS:
+
+* I think we could concentrate on bringing the website "in-house" to the Control Room, with limited access to start for members only, to limit web traffic through the park's network - although all that data is going through there, anyway.
+
+* Also investigate making communication with the Control Room cellular-enabled.
+
+* Investigate cheaper alternatives for hosting the site.
+
+* The team needs to button up the entire project this year, between Fall and Spring.  With 6 students returning to the project, we're in good shape for continuity's sake.  Spin-up last year in CS481 went well, but it still took a great deal of time to get everyone up-to-speed.  I expect this year to go even more quickly.

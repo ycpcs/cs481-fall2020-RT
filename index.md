@@ -19,7 +19,7 @@ This is the website for CS 481-102-RT (Senior Software Design I), Fall 2020 for 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
 
-## Project Ideas for This Year (Fall 202 and Spring 2021)
+## Project Ideas for This Year (Fall 2020 and Spring 2021)
 The following is a list of various ideas for the project for this coming Fall 2020 and Spring 2021.  Todd Ullery of the YCAS provided his list of must-haves and like-to-haves, and I added a few ideas for you to investigate, as well.  You are not limited by this list - please also feel free to offer your own ideas for improving, enhancing, and/or expanding the capabilities of the Radio Telescope, while also allowing yourself to explore your own personal interests.
 
 ## YCAS Must-Haves
